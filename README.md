@@ -5,6 +5,7 @@ O projeto foi feito em ReactJS, e o objetivo foi criar um MegaMenu/Dropdown sem 
 ---------
 
 Dropdown:
+
 ![image 2](https://user-images.githubusercontent.com/40338524/133082306-01854c08-f0fd-4fda-8b29-97658ed4d43d.png)
 
 MegaMenu:
